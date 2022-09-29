@@ -1,2 +1,3 @@
 this, apparently
 this will work as a haiku
+because that's the rule
